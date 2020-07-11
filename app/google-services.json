@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182737432388",
+    "firebase_url": "https://clevertap-demo-bcfa9.firebaseio.com",
+    "project_id": "clevertap-demo-bcfa9",
+    "storage_bucket": "clevertap-demo-bcfa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182737432388:android:4364675525c8bae2a6f111",
+        "android_client_info": {
+          "package_name": "com.clevertap.pooja.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182737432388-oaus8ool65lsg67liacmdseie26ra3ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertap.pooja.test",
+            "certificate_hash": "f9b01588bddb7ea984df4d49658359a45e078a59"
+          }
+        },
+        {
+          "client_id": "182737432388-5hkb1tvi27rrh089vnsgn34utmqb8eul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZTln0W0plxl5f62EMmFICL2gKomh8sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182737432388-5hkb1tvi27rrh089vnsgn34utmqb8eul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
